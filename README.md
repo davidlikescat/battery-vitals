@@ -27,3 +27,7 @@ The `5m` in the filename tells SwiftBar to refresh every 5 minutes.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Build log
+
+- [개발기 (Korean): 맥북 배터리 사이클·건강 확인하는 법](https://aicoder-lab.blogspot.com/2026/06/blog-post_13.html)
